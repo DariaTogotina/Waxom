@@ -1,0 +1,56 @@
+.slider .picture-darkmount {
+	background: url("../../img/slide-1.png") no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.slider .picture-mount {
+	background: url("../../img/gora.jpg") no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.slider .slider-name {
+	color: #fff;
+	padding-top: 320px;
+	text-align: center;
+}
+.slider .slider-name p {
+	font-family: "Raleway";
+	font-weight: 500;
+	font-size: 36px;
+}
+.slider .slider-name h1 {
+	font-family: "Raleway";
+	font-weight: 800;
+	font-size: 52px;
+}
+.slider .slider-name .description {
+	font-family: "Monserrat";
+	font-size: 16px;
+	max-width: 600px;
+	margin: 0 auto;
+}
+.slider .slider-name button {
+	border: 1px solid #998675;
+	border-radius: 5px;
+	width: 170px;
+	margin: 30px auto 380px;
+	background-color: #998675;
+	font-family: "Raleway";
+	font-weight: 800;
+	padding: 20px 0;
+}
+
+.slider {
+	position: relative;
+	margin-top: -96px;
+}
+
+.slider .slick-arrow.slick-next{
+	z-index: 1000;
+	margin-right: 125px;
+}
+.slider .slick-arrow.slick-prev {
+	z-index: 1000;
+	margin-left: 125px;
+}
+

@@ -1,0 +1,31 @@
+.navigation ul {
+	list-style: none;
+	text-align: center;
+}
+.navigation .calendar {
+	margin-right: 20px;
+	margin-left: 50px;
+}
+.navigation .triangle {
+	padding-top: 40px;
+}
+.navigation .logoname {
+	color: #fff;
+}
+.navigation .nav {
+	margin-top: 60px;
+}
+.navigation a {
+	color: #fff;
+}
+.navigation a:hover {
+	color: #c7b299;
+}
+
+.navigation {
+	position: relative;
+	margin: 0 auto;
+	z-index: 500;
+}
+
+
