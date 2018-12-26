@@ -1,0 +1,30 @@
+.purchase {
+	background: #251d1b;
+	height: 150px;
+}
+.purchase button {
+	height: 50px;
+	width: 170px;
+	border-radius: 3px;
+	margin: 50px 0;
+	background-color: #998675;
+	color: #fff;
+	font-family: "Raleway";
+	font-weight: 900;
+}
+.purchase .name {
+	font-family: "Raleway Regular";
+	color: #fff;
+	font-size: 28px;
+	margin-top: 50px;
+}
+.purchase span {
+	color: #998675;
+	font-family: "Raleway Regular";
+}
+.purchase .text {
+	font-family: "Monserrat Light";
+	font-size: 18px;
+	color: #615855;
+	margin-bottom: 50px;
+}
