@@ -1,5 +1,5 @@
 .purchase {
-	background: #251d1b;
+	background-image: linear-gradient (to right, #251d1b, #4d3326);
 	height: 150px;
 }
 .purchase button {
